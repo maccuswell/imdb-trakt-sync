@@ -2,18 +2,20 @@ IMDB:
     # Log into your IMDb account from a web browser, inspect the cookies and retrieve the value of cookie:
     # name: at-main | domain: .imdb.com
     # You need to replace this value with your own, the default value is for illustrative purposes only
-    COOKIEATMAIN: zAta|RHiA67JIrBDPaswIym3GyrTlEuQH-u9yrKP3BUNCHgVyE4oNtUzBYVKlhjjzBiM_Z-GSVnH9rKW3Hf7LdbejovoF6SI4ZmgJcTIUXoA4NVcH1Qahwm0KYCyz95o1gsgby-uQwdU6CoS6MFTnjMkLe1puNiv4uFkvo8mOQulJJeutzYedxiUd0ns9w1X_WeVXPTZWjwisPZMw3EOR6-q9xR4kCEWRW7CmWxU1AEDQbT8ns_AJJD34w1nIQUkuLgBQrvJI_pY
+    COOKIEATMAIN: Atza|IwEBINiZ-kO5yHwk7TgP6tHf60ywvDe481NnZvoAFmhF-brAYZiTWJzUiasxDs7jJPZ9BilX3O7feDAWLDIeb03_IAhKMtEqFNzu8_J0MWzrDaYNqYA--qne5R7GzupvHLHo_WT8LljjxnC62Di8AWL5URV9sepeul1aDLpO1TwJcGmwnAxKkJSOyys9MqFX2QENXfhMnBDIXslnHSCi8VSvptIJneTGmN7b9jduvpmOb2FDxw
     # Log into your IMDb account from a web browser, inspect the cookies and retrieve the value of cookie:
     # name: ubid-main | domain: .imdb.com
     # You need to replace this value with your own, the default value is for illustrative purposes only
-    COOKIEUBIDMAIN: 301-0710501-5367639
+    COOKIEUBIDMAIN: 132-2740251-5510023
     # Array of IMDb lists that you would like synced to Trakt
     # If this array is empty, all IMDb lists will be synced to Trakt
     # Keep in mind the maximum number of lists you can have in Trakt: https://twitter.com/trakt/status/1536751362943332352
     # In order to get the ID of an IMDb list, open it from a browser - the ID is in the URL with format ls#########
     LISTS:
-        - ls000000000
-        - ls111111111
+        - ls009122857
+        - ls070081123
+        - ls009124039
+        - ls009124517
 SYNC:
     # Sync mode to be used when running the application
     # The value must be one of the following:
@@ -29,13 +31,13 @@ SYNC:
 TRAKT:
     # Trakt app client ID
     # You need to replace this value with your own, the default value is for illustrative purposes only
-    CLIENTID: 828832482dea6fffa4453f849fe873de8be54791b9acc01f6923098d0a62972d
+    CLIENTID: 02d66aec4f62502968ad93fd518979750f4c6c2306b75b8232cdb72fb2980ec0
     # Trakt app client secret
     # You need to replace this value with your own, the default value is for illustrative purposes only
-    CLIENTSECRET: bdf9bab88c17f3710a6394607e96cd3a21dee6e5ea0e0236e9ed06e425ed8b6f
+    CLIENTSECRET: 2170d94b62c91ddfc73a354f8f93de2b38040b50a222b5ebd76318117ebed527
     # Trakt account email address (not to be confused with username)
     # You need to replace this value with your own, the default value is for illustrative purposes only
-    EMAIL: user@domain.com
+    EMAIL: stumaxis@gmail.com
     # Trakt account password
     # You need to replace this value with your own, the default value is for illustrative purposes only
-    PASSWORD: password
+    PASSWORD: jkPfVud@vgibE6vNQkYc
